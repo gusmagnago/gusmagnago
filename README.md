@@ -1,4 +1,4 @@
-  ## Hi, I am Gustavo Magnago <span>:sun_with_face:</span>
+  ## Hi, I am Gustavo Magnago :sun_with_face:
 <center>
 <table>
   <tr>
@@ -7,13 +7,21 @@
   - 🥇 Birth Location: Vila Velha, Espírito Santo, Brazil 🇧🇷 </br>
   - 🥈 Nationality: Italian :it: </br>
   - :round_pushpin: Current Location: Tallinn, Estonia 🇪🇪</br>
-	  </td>
-    <td> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusmagnago/gusmagnago/blob/main/devcard.svg" width="200" alt="Gustavo Magnago's Dev Card"/></a></td>
-
+    </td>
+    <td>
+	<a href="https://app.daily.dev/DailyDevTips">
+	<img align="center" src="https://github.com/gusmagnago/gusmagnago/blob/main/devcard.svg" width="350" alt="Gustavo Magnago's Dev Card"/>
+	</a>
+   </td>
   </tr>  
   <tr>
-	    <td><img src="https://github-readme-stats.vercel.app/api?username=gusmagnago&show_icons=true"ons=true ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gusmagnago&show_icons=true"ons=true ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusmagnago&layout=compact"></td>
 </tr>
 </table>
 </center>
+
+## Say Hello :wave:
+<p>
+<a href="https://www.linkedin.com/in/gustavo-magnago/">Linkedin</a><br/>
+</p>
