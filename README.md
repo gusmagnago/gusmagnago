@@ -1,5 +1,7 @@
-  
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusmagnago/gusmagnago/blob/main/devcard.svg" width="400" alt="Gustavo Magnago's Dev Card"/></a>
+  <h1>Hi, I am Gustavo Magnago</h1>
+  <p>Software developer who enjoys taking on creative projects that allow me to apply my visual thinking skills and continue developing my coding abilities. I'm looking to work with dynamic, friendly, and forward-thinking people who can bring fresh and positive ideas to the team. I'm interested in keeping up with new technologies, design trends, and visual culture, while also striving for a good balance between work and personal life.
+</p>
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusmagnago/gusmagnago/blob/main/devcard.svg" width="200" alt="Gustavo Magnago's Dev Card"/></a>
 
 
 <!--
