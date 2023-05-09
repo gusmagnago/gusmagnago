@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/gusmagnago"><img src="https://api.daily.dev/devcards/42926dcfdf2a4c86b4eb07faf897beab.png?r=hlx" width="400" alt="Gustavo Magnago's Dev Card"/></a>
+
 <!--
 **gusmagnago/gusmagnago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
