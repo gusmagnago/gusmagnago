@@ -1,5 +1,5 @@
   
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusmagnago/gusmagnago/blob/master/devcard.svg" width="400" alt="Gustavo Magnago's Dev Card"/></a>
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusmagnago/gusmagnago/blob/master/devcard.svg" width="400" alt="Gustavo Magnago's Dev Card"/>
 
   
 
