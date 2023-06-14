@@ -14,10 +14,6 @@
 	</a>
    </td>
   </tr>  
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gusmagnago&show_icons=true"ons=true ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusmagnago&layout=compact"></td>
-</tr>
 </table>
 </center>
 
