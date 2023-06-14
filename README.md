@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%"><p>Software developer who enjoys taking on creative projects that allow me to apply my visual thinking skills and continue developing my coding abilities. I'm looking to work with dynamic, friendly, and forward-thinking people who can bring fresh and positive ideas to the team. I'm interested in keeping up with new technologies, design trends, and visual culture, while also striving for a good balance between work and personal life.</p>
-  - 😄 Pronouns: He/She/Him/Her </br>
+  - 🏳️‍🌈 Pronouns: He/She/Him/Her </br>
   - 🥇 Birth Location: Vila Velha, Espírito Santo, Brazil 🇧🇷 </br>
   - 🥈 Nationality: Italian :it: </br>
   - :round_pushpin: Current Location: Tallinn, Estonia 🇪🇪</br>
