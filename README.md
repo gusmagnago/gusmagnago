@@ -8,9 +8,11 @@
   - 🥈 Nationality: Italian 🇮🇹 </br>
   - :round_pushpin: Current Location: Tallinn, Estonia 🇪🇪</br>
     </td>
-    <td>
+    <td style={{    display: flex;
+    justify-content: center;
+}}>
 	<a href="https://app.daily.dev/DailyDevTips">
-	<img align="center" src="https://github.com/gusmagnago/gusmagnago/blob/main/devcard.svg" width="400" alt="Gustavo Magnago's Dev Card"/>
+	<img align="center" src="https://github.com/gusmagnago/gusmagnago/blob/main/devcard.svg" width="350" alt="Gustavo Magnago's Dev Card"/>
 	</a>
    </td>
   </tr>  
