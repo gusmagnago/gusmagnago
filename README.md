@@ -2,7 +2,7 @@
 <center>
 <table>
   <tr>
-    <td width="50%"><p>Software developer who enjoys taking on creative projects that allow me to apply my visual thinking skills and continue developing my coding abilities. I'm looking to work with dynamic, friendly, and forward-thinking people who can bring fresh and positive ideas to the team. I'm interested in keeping up with new technologies, design trends, and visual culture, while also striving for a good balance between work and personal life.</p>
+    <td width="50%"><p>As a software developer with over four years of hands-on experience in React and TypeScript, I have a deep-rooted passion for technology and innovation. My journey began in a modest Brazilian community and led me to diverse roles in fintech, e-commerce, and groundbreaking projects in Tallinn, like muography software development to display billions of data in a nice 3D view 💅. I thrive on the challenges that new projects and emerging technologies bring, viewing them as opportunities to evolve both personally and professionally. Beyond technical expertise, I bring a unique blend of design acumen and a strong belief in teamwork, making me a versatile asset to any forward-thinking team.</p>
   - 🏳️‍🌈 Pronouns: He/She/Him/Her </br>
   - 🥇 Birth Location: Vila Velha, Espírito Santo, Brazil 🇧🇷 </br>
   - 🥈 Nationality: Italian :it: </br>
